@@ -22,3 +22,15 @@ x64
 
 Github: https://github.com/TryCatchLearn/DatingApp
 
+
+## Setup VSCode for the project
+
+### Extensions
+
+- [C# Powered by OmniSharp](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
+  
+### Install Missing Assets
+
+- `Ctrl` + `Shift` + `p` Open the command pallette
+- Search for `assets`
+- Run the command `.NET: Generate Assets for Build and Debug`
